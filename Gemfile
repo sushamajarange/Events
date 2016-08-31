@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 gem 'nokogiri'
 gem 'rack'
 gem 'rspec'
-
+gem 'rails-controller-testing'
 gem 'ruby'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
